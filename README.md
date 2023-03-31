@@ -3,7 +3,7 @@ Thanks to invite my hub
 
 - 🌱 I’m currently learning programing. 
 - 📫 email:skek0011@jbnu.ac.kr
-- interested in researcher who works with public information.
+- interested in researcher who works with public opinion poll
 
 [![jiyoung's github stats](https://github-readme-stats.vercel.app/api?username=Swldud)](https://github.com/Swldud)
 
